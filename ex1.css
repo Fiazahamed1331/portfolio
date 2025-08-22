@@ -268,6 +268,16 @@ img{
 .contact a {
     color: #00fbff;
 }
+
+.contact a {
+    text-decoration: none;
+    color: #00fbff;   /* you can change to any color */
+    font-weight: 500;
+}
+
+.contact a:hover {
+    color: #00cfd4;   /* hover effect */
+}
 .certifications {
     padding: 50px 20px;
     text-align: center;
